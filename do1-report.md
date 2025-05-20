@@ -326,7 +326,7 @@ Upgrade
 
 ##### 2.3 mcedit
 
-![test_nano.txt](do1/test_nano.txt.p21
+![test_nano.txt](do1/test_nano.txt.p21)
 
 #### 3 Команды для выхода с сохранением изменений
 
@@ -356,37 +356,37 @@ mcedit_exit: F10
 
 Поиск `/`
 
-**TODO: добавить скрин**
+![vim search](<do1/search vim.png>)
 
 ##### 6.2 VIM REPLACE
 
 Замена `:s/старое слово/новое слово/g`
 
-**TODO: добавить скрин**
+![vim replace](do1/replace_vim123.png)
 
 ##### 6.3 NANO SERCH
 
 Поиск `Ctrl + W`
 
-**TODO: добавить скрин**
+![do1/nano search.png](<do1/nano search.png>)
 
 ##### 6.4 NANO REPLACE
 
 Замена `Ctrl + W` для перехода к панели поиска, далее `Ctrl + R`
 
-**TODO: добавить скрин**
+![nano replace](do1/nano_rename.png)
 
 ##### 6.5 MCEDIT SERCH
 
 Поиск `F7`, вводим запрос, и нажимаем `find all`
 
-**TODO: добавить скрин**
+![find all](do1/find_all.png)
 
 ##### 6.6 MCEDIT REPLACE
 
 Замена `F4`
 
-**TODO: добавить скрин**
+![replace](do1/replace.png)
 
 ---
 
