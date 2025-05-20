@@ -304,29 +304,29 @@ Upgrade
 
 ##### 1.1 `sudo apt install vim`
 
-**TODO: добавить скрин**
+![vim install](do1/install_vim.png)
 
 ##### 1.2 `sudo apt install nano`
 
-**TODO: добавить скрин**
+![nano install](do1/nano_install.png)
 
 ##### 1.3 `sudo apt install mcedit`
 
-**TODO: добавить скрин**
+![mcedit install](do1/mcedit_install.png)
 
 #### 2 Создание файлов `test_X.txt`, где `X` - имя редактора (vim, nano, mcedit)
 
 ##### 2.1 vim
 
-**TODO: добавить скрин**
+![test_vim.txt](do1/test_vim.txt.png)
 
 ##### 2.2 nano
 
-**TODO: добавить скрин**
+![test_nano.txt](do1/test_nano.txt.png)
 
 ##### 2.3 mcedit
 
-**TODO: добавить скрин**
+![test_nano.txt](do1/test_nano.txt.p21
 
 #### 3 Команды для выхода с сохранением изменений
 
@@ -338,7 +338,9 @@ mcedit_exit: F2 + F10
 
 #### 4 Откроем файл в режиме редактирования и зменим никнем на `«21 School 21»`, закроем файл без сохранения изменений
 
-**TODO: добавить три скрина**
+![21_mcedit](do1/21_mcedit.png)
+![21_nano](do1/21_nano.png)
+![21_vim](do1/21_vim.png)
 
 #### 5 Команды для выхода с сохранением изменений
 
@@ -409,19 +411,19 @@ mcedit_exit: F10
 
 #### 1 Установка службы
 
-**TODO: добавить скрин**
+![ssh server install](do1/ssh_server_install.png)
 
 #### 2 Установка автостарта службы
 
-**TODO: добавить скрин**
+![ssh enable](do1/enable_ssh.png)
 
 #### 3 Перенастройка соужбы на порт `2022`
 
-**TODO: добавить скрин**
+![port 2022](do1/port_2022.png)
 
 #### 4 Команда `netstat -tan` 
 
-**TODO: добавить скрин**
+![netstat](do1/netstat.png)
 
 #### 5 Обяснение команды `netstat -tan` и ключей в ней
 
@@ -449,7 +451,7 @@ mcedit_exit: F10
 
 #### 6 Команда `ps` 
 
-**TODO: добавить скрин**
+![ps](do1/ps.png)
 
 #### 7 Обяснение команды `ps` и ключей в ней
 
@@ -467,7 +469,7 @@ mcedit_exit: F10
 
 `netstat -tan`
 
-**TODO: добавить скрин**
+![netstat -tan](do1/netstat-tan.png)
 
 ---
 
@@ -513,39 +515,39 @@ mcedit_exit: F10
 
 #### 2.1 Сортировка по `PID`:
 
-**TODO: добавить скрин**
+![htop_PID](do1/htop_PID.png)
 
 #### 2.2 Сортировка по `PERCENT_CPU`:
 
-**TODO: добавить скрин**
+![htop_CPU](do1/htop_CPU.png)
 
 #### 2.3 Сортировка по `PERCENT_MEM`:
 
-**TODO: добавить скрин**
+![htop_MEM](do1/htop_MEM.png)
 
 #### 2.4 Сортировка по `TIME`:
 
-**TODO: добавить скрин**
+![htop_time](do1/htop_time.png)
 
 #### 2.5 Фильтр по `sshd`:
 
-**TODO: добавить скрин**
+![htop_SSH](do1/htop_SSH.png)
 
 #### 2.6 Процесс `syslog`:
 
-**TODO: добавить скрин**
+![htop_syslog](do1/htop_syslog.png)
 
 #### 2.7 `hostname`:
 
-**TODO: добавить скрин**
+![htop_hostname](do1/htop_hostname.png)
 
 #### 2.8 `clock`:
 
-**TODO: добавить скрин**
+![htop_clock](do1/htop_clock.png)
 
 #### 2.9 `uptime`:
 
-**TODO: добавить скрин**
+![htop_time](do1/htop_time.png)
 
 ---
 
@@ -653,21 +655,21 @@ mcedit_exit: F10
 
 #### 1. Лог `/var/log/dmesg`
 
-**TODO: добавить скрин**
+![cat var](do1/var.png)
 
 #### 2. Лог `/var/log/syslog`
 
-**TODO: добавить скрин**
+![cat var2](do1/var2.png)
 
 #### 3. Лог `/var/log/auth.log`
 
-**TODO: добавить скрин**
+![cat var3](do1/var3.png)
 
 > Время последней успешной авторизации: TODO: добавить
 
 #### 4. Перезпуск службы `SSHd`
 
-**TODO: добавить скрин**
+![restart](do1/ssh_restart.png)
 
 ---
 
@@ -690,7 +692,7 @@ mcedit_exit: F10
 
 #### 2 Список текущих задач в `CRON`
 
-**TODO: добавить скрин**
+![crontab](do1/crontab.png)
 
 #### 3 Удаление всех заданий из планировщика
 
