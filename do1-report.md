@@ -665,7 +665,9 @@ mcedit_exit: F10
 
 ![cat var3](do1/var3.png)
 
-> Время последней успешной авторизации: TODO: добавить
+> 2025-05-20T20:42:44.061104+03:00 Anna login[1019]: pam_unix(login:session): session opened for user cube
+2025-05-20T20:42:44.152691+03:00 Anna systemd-logind[817]: New session 1 of user cube.
+
 
 #### 4. Перезпуск службы `SSHd`
 
@@ -688,7 +690,7 @@ mcedit_exit: F10
 
 #### 1 Добавление в планировщик `uptime`
 
-**TODO: добавить скрин**
+![uptime](do1/uptime_nano.png)
 
 #### 2 Список текущих задач в `CRON`
 
@@ -696,8 +698,8 @@ mcedit_exit: F10
 
 #### 3 Удаление всех заданий из планировщика
 
-**TODO: добавить скрин**
+![delete CROB](do1/delete_crob.png)
 
 #### 4 Все текущие задания для `CRON`
 
-**TODO: добавить скрин**
+![delete CROB](do1/delete_crob.png)
